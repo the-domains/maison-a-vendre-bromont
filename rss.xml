@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[maison-a-vendre-bromont]]></title>
-        <description><![CDATA[maison-a-vendre-bromont]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Vaste de choix de maisons à vendre à Bromont]]></title>
+        <description><![CDATA[Vaste de choix de maisons à vendre à Bromont]]></description>
+        <link>https://thegrid.ai/maison-a-vendre-bromont/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 20:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 21:00:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maison-a-vendre-bromont/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66385f98-4ba6-4956-b88f-b5a1313eab28.jpg">]]></description>
-            <link>undefinedski-inski-out-a-cote-de-la-remontee-mecanique-du-mont-sole/index.html</link>
+            <title><![CDATA[Bromont rue Rouville]]></title>
+            <description><![CDATA[<article><h1>Bromont rue Rouville</h1><p>SKI-IN/SKI-OUT, à côté de la remontée mécanique du mont Soleil. Luxueuse propriété au cachet unique. Magnifique vue sur la montagne de Bromont et couchers de soleil à couper le souffle. - Pour information: http://www.duboiscourtemancheprevost.com/Maison-a-etages-a-vendre-167-Rue-de-Rouville-Bromont-A-1356.html#sthash.tFyrgTjd.dpuf</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f7847b4-376e-4299-8d68-075835f2e6a9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maison-a-vendre-bromont/ski-inski-out-a-cote-de-la-remontee-mecanique-du-mont-sole/index.html</link>
             <guid isPermaLink="false">e3c94c0d-a806-499f-8c70-629439e88bff</guid>
-            <pubDate>Sat, 21 May 2016 20:51:07 GMT</pubDate>
+            <pubDate>Sat, 21 May 2016 21:00:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
