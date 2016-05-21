@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-21T20:47:31.974Z'
-dateModified: '2016-05-21T20:46:54.018Z'
+datePublished: '2016-05-21T20:48:07.558Z'
+dateModified: '2016-05-21T20:48:05.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-ski-inski-out-a-cote-de-la-remontee-mecanique-du-mont-sole.md
