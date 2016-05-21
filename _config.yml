@@ -1,0 +1,28 @@
+name: maison-a-vendre-bromont
+favicon: null
+layout_spectrum: 0.3286944355349988
+typography_spectrum: 0.43237463175319135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7764590939041227
+  lightness: 0.6700428740587085
+  saturation: 0.8308346399571747
+  rhythmicContrast: 0.9736061589792371
+purpose: []
