@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Grande maison/chalet SKI-IN/SKI-OUT, parfaite pour la famille nombreuse qui aime le plein air. À quelques mètres de la piste de ski Cowansville, adossée au sentier de la montagne, grand terrain privé avec piscine - Pour information: duboiscourtemancheprevost.com'
-datePublished: '2016-05-30T21:55:34.068Z'
-dateModified: '2016-05-30T21:54:41.746Z'
+datePublished: '2016-05-30T21:59:46.548Z'
+dateModified: '2016-05-30T21:59:24.542Z'
 title: Bromont rue Rouville
 author: []
 sourcePath: _posts/2016-05-21-ski-inski-out-a-cote-de-la-remontee-mecanique-du-mont-sole.md
@@ -27,5 +27,5 @@ SKI-IN/SKI-OUT, à côté de la remontée mécanique du mont Soleil. Luxueuse pr
 
 Grande maison/chalet SKI-IN/SKI-OUT, parfaite pour la famille nombreuse qui aime le plein air. À quelques mètres de la piste de ski Cowansville, adossée au sentier de la montagne, grand terrain privé avec piscine - Pour information: [duboiscourtemancheprevost.com][1]
 
-[0]: http://www.duboiscourtemancheprevost.com/Maison-a-etages-a-vendre-167-Rue-de-Rouville-Bromont-A-1356.htm
+[0]: http://www.duboiscourtemancheprevost.com/Maison-a-etages-a-vendre-167-Rue-de-Rouville-Bromont-A-1356.html
 [1]: http://www.duboiscourtemancheprevost.com/maisons-a-vendre-prix-des-liste-0.html
