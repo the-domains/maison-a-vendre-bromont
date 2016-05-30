@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Grande maison/chalet SKI-IN/SKI-OUT, parfaite pour la famille nombreuse qui aime le plein air. À quelques mètres de la piste de ski Cowansville, adossée au sentier de la montagne, grand terrain privé avec piscine - Pour information: duboiscourtemancheprevost.com'
-datePublished: '2016-05-30T22:03:49.798Z'
-dateModified: '2016-05-30T22:03:46.327Z'
+datePublished: '2016-05-30T22:05:05.042Z'
+dateModified: '2016-05-30T22:05:01.382Z'
 title: Bromont rue Rouville
 author: []
 sourcePath: _posts/2016-05-21-ski-inski-out-a-cote-de-la-remontee-mecanique-du-mont-sole.md
